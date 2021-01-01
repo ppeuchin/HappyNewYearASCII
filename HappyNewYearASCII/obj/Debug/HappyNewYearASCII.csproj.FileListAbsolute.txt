@@ -1,0 +1,7 @@
+C:\Users\Asterix\source\repos\HappyNewYearASCII\HappyNewYearASCII\bin\Debug\HappyNewYearASCII.exe.config
+C:\Users\Asterix\source\repos\HappyNewYearASCII\HappyNewYearASCII\bin\Debug\HappyNewYearASCII.exe
+C:\Users\Asterix\source\repos\HappyNewYearASCII\HappyNewYearASCII\bin\Debug\HappyNewYearASCII.pdb
+C:\Users\Asterix\source\repos\HappyNewYearASCII\HappyNewYearASCII\obj\Debug\HappyNewYearASCII.csprojAssemblyReference.cache
+C:\Users\Asterix\source\repos\HappyNewYearASCII\HappyNewYearASCII\obj\Debug\HappyNewYearASCII.csproj.CoreCompileInputs.cache
+C:\Users\Asterix\source\repos\HappyNewYearASCII\HappyNewYearASCII\obj\Debug\HappyNewYearASCII.exe
+C:\Users\Asterix\source\repos\HappyNewYearASCII\HappyNewYearASCII\obj\Debug\HappyNewYearASCII.pdb
